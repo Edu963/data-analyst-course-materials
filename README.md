@@ -10,6 +10,7 @@ This repository contains materials for a data analyst course, including notes, e
 
 - [Introduction to Python](Intro_to_Python/README.md)
 - [Algorithms](https://github.com/Edu963/data-analyst-course-materials/tree/main/Algorithms)
+- [Object Oriented Programming](https://github.com/Edu963/data-analyst-course-materials/tree/main/Object-Oriented%20Programming)
 
 ## How to Use
 
